@@ -1,0 +1,29 @@
+.com {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+.image-container  {
+  width: 200px; /* Ajustez la largeur selon vos besoins */
+  height: auto; /* Laissez la hauteur ajuster de manière proportionnelle */
+  border-radius: 50%; /* Pour donner à l'image une forme circulaire */
+  margin-bottom: 20px;
+}
+.link {
+  color: black;
+}
+.title {
+  text-align: center;
+  color: rgb(143, 237, 182);
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+
+
+
+.infopersonnelles {
+  
+  text-align: center;
+}
